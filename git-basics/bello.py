@@ -1,3 +1,4 @@
 
-# Say Hello World
-print("Hello World")
+# Return user inputed phrase
+user_input = input("Enter a valid Phrase: ")
+print("Your valid Phrase is: ", user_input)
